@@ -1,4 +1,4 @@
-# Bikcraft Sass
+# Bikcraft SASS
 
 Este projeto faz parte dos cursos 'Web Design Completo' da [Origamid](https://www.origamid.com).
 Esse projeto foi todo feito em CSS, porém nessa aula foi refeito o CSS e transportado todo o código para SASS durante a aula de 'CSS com SASS'.
