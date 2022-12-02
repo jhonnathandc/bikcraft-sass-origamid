@@ -1,0 +1,14 @@
+// Variáveis
+@import 'partials/variaveis-e-mixins';
+
+// Geral
+@import "partials/normalize";
+@import "partials/reset";
+@import "partials/grid";
+@import "partials/geral";
+
+// Páginas
+@import "partials/sobre";
+@import "partials/produtos";
+@import "partials/portfolio";
+@import "partials/contato";
